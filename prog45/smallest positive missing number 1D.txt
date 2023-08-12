@@ -1,0 +1,25 @@
+You are given an array a[] of n integers. The task is to find the smallest positive number missing from the array.
+
+Input Format
+
+First line - n, the size of an array Second line - all the n elements (a[i] can be positive, negative, zero)
+
+Constraints
+
+NA
+
+Output Format
+
+Print the smallest positive number missing from the array.
+
+Sample Input 0
+6
+4 2 0 -1 1 -3
+Sample Output 0
+3
+
+Sample Input 1
+5
+1 3 4 5 2
+Sample Output 1
+6
